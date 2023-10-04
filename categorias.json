@@ -1,0 +1,15 @@
+[
+    {
+        "nombre": "Placas de Video",
+        "valor":"placas" 
+    },
+    {
+        "nombre": "Procesadores",
+        "valor":"procesadores"        
+    },
+    {
+        "nombre": "Motherboards",
+        "valor":"mother"        
+    }
+
+]
